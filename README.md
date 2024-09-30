@@ -57,7 +57,7 @@ The notebook will guide you through generating the draft rankings based on your 
 * Adding support for custom league settings (e.g., different scoring formats, auction drafts).
 * Expanding to include DFS (Daily Fantasy Sports) projections and analysis.
 
-##💡 Contributions
+## 💡 Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request for bug fixes, feature enhancements, or any other improvements.
 
 ## 🤝 Acknowledgements
