@@ -46,6 +46,7 @@ The notebook will guide you through generating the draft rankings based on your 
 * Random Forest model was used to predict each fantasy category.
 * Hyperparameter tuning was performed to optimize model performance.
 * The models were validated using k-fold cross-validation.
+
 **Draft Rankings**
 * Calculated fantasy values using z-scores for each category, adjusted by the projected number of games played.
 * Applied positional multipliers and category weights to reflect league-specific nuances.
