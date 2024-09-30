@@ -41,6 +41,7 @@ The notebook will guide you through generating the draft rankings based on your 
 * Processed three seasons of NBA data to extract key statistics per game.
 * Adjusted projections based on player experience, age, and team changes.
 * Incorporated weighted averages to handle incomplete or limited data for younger players.
+  
 **Machine Learning Models**
 * Random Forest model was used to predict each fantasy category.
 * Hyperparameter tuning was performed to optimize model performance.
