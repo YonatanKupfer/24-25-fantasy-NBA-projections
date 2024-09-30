@@ -23,7 +23,7 @@ The projections and rankings are tailored for a 9-category H2H league with the f
    ```
    https://github.com/YonatanKupfer/24-25-fantasy-NBA-projections.git
    ```
- ##⚙️ Usage
+ ## ⚙️ Usage
 1. **Running Jupyter Notebooks**
 Open the relevant .ipynb file to start working with the data, projections, and draft rankings.
 
